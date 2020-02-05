@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">150116004HW1</string>
+    <string name="action_settings">Settings</string>
+    <string name="stringInfo">BMI VALUES\nUnderweight: less than 18.5  \nNormal: between 18.5 and 24.9 \nOverweight: between 25 and 29.9 \nObese: 30 or greater</string>
+    <string name="weight">Please enter your weight in kilograms  </string>
+    <string name="height">Please enter your height in centimeters</string>
+    <string name="calculate">Calculate</string>
+    <string name="textview">TextView</string>
+</resources>
